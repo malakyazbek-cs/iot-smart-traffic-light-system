@@ -17,7 +17,8 @@ An IoT-based smart traffic light system designed and simulated using **Cisco Pac
 - Automatically changes traffic signals based on sensor activity.
 - Displays white when neither sensor detects movement.
 - Gives green to the detected side and red to the other side.
-- Includes a simulated camera and laptop for traffic monitoring.
+- Includes a simulated camera and laptop for traffic monitoring. <br><br>
+<b>Note that I added a simulated speaker buzzes when vehicles are detected, alerting blind or visually impaired pedestrians and those who may not be paying attention, improving pedestrian safety.</b>
 
 ## How It Works
 1. Simulated motion sensors detect pedestrian and vehicle movement.
