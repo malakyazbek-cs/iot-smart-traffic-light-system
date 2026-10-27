@@ -38,4 +38,8 @@ An IoT-based smart traffic light system designed and simulated using **Cisco Pac
 2. Start the simulation and test the sensor behavior.
 3. Observe the traffic light changes and monitoring devices.
 
-## Images and Videos
+## Project Screenshot and Demo
+
+<img src="smart_traffic/png" alt="Screenshot" width="1000">
+
+https://github.com/user-attachments/assets/fd6722b3-ef83-4f96-a41a-912733b3dec2
